@@ -1,0 +1,25 @@
+
+
+body { font-family: "Comic Sans MS", sans-serif; background-image: url("aba4dd98-6876-4ebf-badd-b43015c98312.jpg"); background-attachment: fixed; color: white; }
+
+h1 { text-align: center; font-family: "Old English Text MT", sans-serif; font-size: 35px; text-shadow: red 0px 0px 5px; }
+
+fieldset { background-color: rgba(0, 0, 0, 0.5); border: 2px solid white; padding: 12px; margin: 15px; border-radius: 0px 20px; box-shadow: black 0px 0px 10px; }
+
+fieldset legend { background-image: url("aron-visuals-bZZp1PmHI0E-unsplash.jpg"); font-family: "Old English Text MT", sans-serif; padding: 12px 25px; font-size: 20px; border: 2px solid white; border-radius: 0px 20px; box-shadow: black 0px 0px 10px; }
+
+table { width: 100%; }
+
+table td { font-size: 18px; padding: 5px; }
+
+table th { text-align: left; }
+
+input[type="text"], input[type="date"], input[type="number"], input[type="month"], select { font-size: 18px; height: 35px; outline: none; border: none; border-radius: 5px; }
+
+textarea { outline: none; border: none; border-radius: 5px; width: 210px; }
+
+input[type="text"]:focus, input[type="date"]:focus, input[type="number"]:focus, input[type="month"]:focus, select:focus, textarea:focus { background-color: rgb(203, 164, 131); box-shadow: darkred 0px 0px 10px; }
+
+.button { background-image: url("Abstract.jpg"); font-family: "Old English Text MT", sans-serif; padding: 12px 25px; font-size: 20px; border: 2px solid white; border-radius: 0px 20px; box-shadow: black 0px 0px 10px; color: white; width: 150px; }
+
+.button:hover { box-shadow: white 0px 0px 10px; cursor: pointer; }
